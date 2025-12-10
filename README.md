@@ -67,8 +67,8 @@ The attention mechanism reveals distinct temporal patterns:
 ### Confusion Matrix
 
 <p align="center">
-  <img src="confusion-matrix1.png" alt="Confusion Matrix 1" width="400"/>
-  <img src="confusio-matrix2.png" alt="Confusion Matrix 2" width="400"/>
+  <img src="confusio-matrix1.png" alt="Confusion Matrix 1" width="400"/>
+  <img src="confusion-matrix2.png" alt="Confusion Matrix 2" width="400"/>
   <img src="confusion-matrix3.png" alt="Confusion Matrix 3" width="400"/>
 </p>
 
