@@ -55,7 +55,7 @@ Performance comparison across models (mean ± std over 3 seeds):
 ### Attention Analysis by Bias Type
 
 <p align="center">
-  <img src="example-attention.png" alt="Attention by Bias" width="500"/>
+  <img src="example-attention.png" alt="Attention by Bias" width="400"/>
   <img src="tes-accuracy.png" alt="Accuracy by Bias" width="400"/>
 </p>
 
