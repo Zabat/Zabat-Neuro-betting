@@ -19,7 +19,7 @@ The proposed LSTM-Attention architecture captures temporal dependencies in betti
 ## 🏗️ Architecture
 
 <p align="center">
-  <img src="figures/architecture.png" alt="LSTM-Attention Architecture" width="800"/>
+  <img src="architecture.png" alt="LSTM-Attention Architecture" width="800"/>
 </p>
 
 The model consists of:
@@ -36,7 +36,7 @@ Input (k past rounds) → LSTM → Attention → Concat [context, last_h] → De
 ### Performance Summary
 
 <p align="center">
-  <img src="figures/combined_results.png" alt="Combined Results" width="900"/>
+  <img src="combined_results.png" alt="Combined Results" width="900"/>
 </p>
 
 ### Model Comparison
@@ -61,8 +61,8 @@ Performance comparison across models (mean ± std over 3 seeds):
 ### Attention Analysis by Bias Type
 
 <p align="center">
-  <img src="figures/attention_by_bias.png" alt="Attention by Bias" width="500"/>
-  <img src="figures/accuracy_by_bias.png" alt="Accuracy by Bias" width="400"/>
+  <img src="attention_by_bias.png" alt="Attention by Bias" width="500"/>
+  <img src="accuracy_by_bias.png" alt="Accuracy by Bias" width="400"/>
 </p>
 
 The attention mechanism reveals distinct temporal patterns:
