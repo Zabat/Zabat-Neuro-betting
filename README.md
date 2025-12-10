@@ -64,6 +64,14 @@ The attention mechanism reveals distinct temporal patterns:
 - **Loss chasing & Hot-hand**: Smoother, gradual decay over the window
 - **Highest accuracy** (~89%) achieved on confirmation-biased bettors
 
+### Confusion Matrix
+
+<p align="center">
+  <img src="confusion-matrix1.png" alt="Confusion Matrix 1" width="400"/>
+  <img src="confusion-matrix2.png" alt="Confusion Matrix 2" width="400"/>
+  <img src="confusion-matrix3.png" alt="Confusion Matrix 3" width="400"/>
+</p>
+
 ## 🚀 Quick Start
 
 ### Prerequisites
