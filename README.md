@@ -72,6 +72,14 @@ The attention mechanism reveals distinct temporal patterns:
   <img src="confusion-matrix3.png" alt="Confusion Matrix 3" width="400"/>
 </p>
 
+### Calibration test and Validation Threshold Sweep
+
+<p align="center">
+  <img src="treshold.png" alt="Validation Threshold Sweep" width="400"/>
+  <img src="calibration-test.png" alt="Calibration (Reliability) - Test" width="400"/>
+</p>
+
+
 ## 🚀 Quick Start
 
 ### Prerequisites
