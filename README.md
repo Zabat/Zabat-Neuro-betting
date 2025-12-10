@@ -48,7 +48,7 @@ Performance comparison across models (mean ± std over 3 seeds):
 ### ROC & Precision-Recall Curves
 
 <p align="center">
-  <img src="roc_test.png" alt="ROC Curves" width="400"/>
+  <img src="roc-test.png" alt="ROC Curves" width="400"/>
   <img src="precision-racall.png" alt="PR Curves" width="400"/>
 </p>
 
