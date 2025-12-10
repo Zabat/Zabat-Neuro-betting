@@ -19,7 +19,7 @@ The proposed LSTM-Attention architecture captures temporal dependencies in betti
 ## 🏗️ Architecture
 
 <p align="center">
-  <img src="architecture.png" alt="LSTM-Attention Architecture" width="800"/>
+  <img src="architecture-ok.png" alt="LSTM-Attention Architecture" width="800"/>
 </p>
 
 The model consists of:
